@@ -1,6 +1,6 @@
 # Hands-on Linux-03 : Managing Users and Groups
 
-Purpose of the this hands-on training is to teach the students how to manage users and groups.
+Purpose of the this hands-on training is to teach  how to manage users and groups.
 
 ## Learning Outcomes
 
